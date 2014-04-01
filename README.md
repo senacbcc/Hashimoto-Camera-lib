@@ -80,6 +80,20 @@ void camera_libera_matriz(camera *cam, unsigned char ***matriz);
 ######Libera uma matriz com o mesmo formato do campo quadro de cam.
 ---------------------
 
+####Observação
+---------------------
+Em algumas versões de sistemas operacionais baseados em
+Debian (por exemplo Ubuntu ou elementaryOS), é necessário
+modificar o arquivo camera.h. Substitua a primeira linha
+
+```C
+     #include <opencv/highgui.h>
+```
+pela linha
+```C
+     #include <opencv2/highgui/highgui_c.h>
+```
+
 ####Créditos
 ---------------------
 [![cv](http://gediscursivos.files.wordpress.com/2012/12/lattes.png?w=869)](http://lattes.cnpq.br/5909154335340519)  [Profº Marcelo Hashimoto](https://www.github.com/mhsenac)
