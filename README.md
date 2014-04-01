@@ -1,9 +1,16 @@
 Hashimoto-Camera-lib
 ====================
 
-###Biblioteca de rotinas para acesso a camêra
+###Biblioteca de rotinas para acesso a câmera
+![tirinha](http://vidadeprogramador.com.br/wp-content/uploads/2014/01/tirinha1154.png)
 
+[crédito](http://vidadeprogramador.com.br)
 ####Sobre
+---------------------
+
+Biblioteca desenvolvida para utilização na disciplina Projeto Integrador III, do Bacharelado em Ciência da Computação do Centro Universitário Senac São Paulo - Campus Santo Amaro 
+
+####Funcionalidade
 ---------------------
 O arquivo ```camera.c``` contém a implementação de uma biblioteca que permite o acesso a imagens de câmeras através da plataforma OpenCV. 
 Para utilizar essa biblioteca, o arquivo de cabeçalho ```camera.h``` deve ser incluído no código.
