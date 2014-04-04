@@ -112,6 +112,9 @@ pela linha
 --- | --- | --- | --- | --- | --- | ---
 [OpenCV](http://wwwopencv.org/) | [Allegro5](http://alleg.sourceforge.net/)
 
-[Instalação do OpenCV e Allegro5 no Linux](https://github.com/senacbcc/OpenCV-Allegro5-InstallScript)
+####Instalação das dependências
+---------------------
 
-[Instalação do OpenCV e Allegro5 no Windows](https://github.com/ezefranca/BCC-1s14-PI3-Master-Exploder/wiki/Compila%C3%A7%C3%A3o-e-Instala%C3%A7%C3%A3o-Allegro-5-e-OpenCV-no-Windows)
+[![Linux](http://www.xpeedclub.com.br/download/file.php?avatar=30933_1353197014.png)](http://wwwopencv.org/) | [![Windows](http://icons.iconarchive.com/icons/benjigarner/softdimension/72/Windows-icon.png)](https://github.com/ezefranca/BCC-1s14-PI3-Master-Exploder/wiki/Compila%C3%A7%C3%A3o-e-Instala%C3%A7%C3%A3o-Allegro-5-e-OpenCV-no-Windows)
+--- | --- | --- | --- | --- | --- | ---
+[Linux](https://github.com/senacbcc/OpenCV-Allegro5-InstallScript) | [Windows](https://github.com/ezefranca/BCC-1s14-PI3-Master-Exploder/wiki/Compila%C3%A7%C3%A3o-e-Instala%C3%A7%C3%A3o-Allegro-5-e-OpenCV-no-Windows)
