@@ -108,9 +108,9 @@ pela linha
 ####Links
 ---------------------
 
-[OpenCV]()
-
-[Allegro5]()
+[![OpenCV](https://a.fsdn.com/con/icons/op/opencvlibrary@sf.net/opencv-logo.png)](http://wwwopencv.org/) | [![Allegro5](https://raw.github.com/ezefranca/BCC-1s14-PI3-Master-Exploder/master/travis-install/allegro-logo.png)](http://alleg.sourceforge.net/)
+--- | --- | --- | --- | --- | --- | ---
+[OpenCV](http://wwwopencv.org/) | [Allegro5](http://alleg.sourceforge.net/)
 
 [Instalação do OpenCV e Allegro5 no Linux](https://github.com/senacbcc/OpenCV-Allegro5-InstallScript)
 
