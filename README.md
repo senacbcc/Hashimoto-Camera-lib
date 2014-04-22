@@ -1,4 +1,4 @@
-Hashimoto-Camera-lib
+Hashimoto-Camera-lib  [![Build Status](https://travis-ci.org/senacbcc/Hashimoto-Camera-lib.svg?branch=master)](https://travis-ci.org/senacbcc/Hashimoto-Camera-lib)
 ====================
 
 ###Biblioteca de rotinas para acesso a câmera
@@ -93,28 +93,33 @@ Em algumas versões de sistemas operacionais baseados em
 Debian (por exemplo Ubuntu ou elementaryOS), é necessário
 modificar o arquivo camera.h. Substitua a primeira linha
 
-```C
+```cpp
      #include <opencv/highgui.h>
 ```
 pela linha
-```C
+```cpp
      #include <opencv2/highgui/highgui_c.h>
 ```
 
 ####Créditos
 ---------------------
-[![cv](http://gediscursivos.files.wordpress.com/2012/12/lattes.png?w=869)](http://lattes.cnpq.br/5909154335340519)  [Profº Marcelo Hashimoto](https://www.github.com/mhsenac)
+[Profº Marcelo Hashimoto](https://www.github.com/mhsenac)[![cv](http://gediscursivos.files.wordpress.com/2012/12/lattes.png?w=869)](http://lattes.cnpq.br/5909154335340519)
 
 ####Links
 ---------------------
 
 [![OpenCV](https://a.fsdn.com/con/icons/op/opencvlibrary@sf.net/opencv-logo.png)](http://wwwopencv.org/) | [![Allegro5](https://raw.github.com/ezefranca/BCC-1s14-PI3-Master-Exploder/master/travis-install/allegro-logo.png)](http://alleg.sourceforge.net/)
 --- | --- | --- | --- | --- | --- | ---
-[OpenCV](http://wwwopencv.org/) | [Allegro5](http://alleg.sourceforge.net/)
+[OpenCV](http://www.opencv.org/) | [Allegro5](http://alleg.sourceforge.net/)
 
 ####Instalação das dependências
 ---------------------
 
-[![Linux](http://www.xpeedclub.com.br/download/file.php?avatar=30933_1353197014.png)](http://wwwopencv.org/) | [![Windows](http://icons.iconarchive.com/icons/benjigarner/softdimension/72/Windows-icon.png)](https://github.com/ezefranca/BCC-1s14-PI3-Master-Exploder/wiki/Compila%C3%A7%C3%A3o-e-Instala%C3%A7%C3%A3o-Allegro-5-e-OpenCV-no-Windows)
+[![Linux](https://raw.githubusercontent.com/ezefranca/BCC-1s14-PI3-Master-Exploder/master/others/travis/linux.png)](http://www.linux.org/) | [![Windows](https://raw.githubusercontent.com/ezefranca/BCC-1s14-PI3-Master-Exploder/master/others/travis/windows.png)](https://github.com/ezefranca/BCC-1s14-PI3-Master-Exploder/wiki/Compila%C3%A7%C3%A3o-e-Instala%C3%A7%C3%A3o-Allegro-5-e-OpenCV-no-Windows)
 --- | --- | --- | --- | --- | --- | ---
 [Linux](https://github.com/senacbcc/OpenCV-Allegro5-InstallScript) | [Windows](https://github.com/ezefranca/BCC-1s14-PI3-Master-Exploder/wiki/Compila%C3%A7%C3%A3o-e-Instala%C3%A7%C3%A3o-Allegro-5-e-OpenCV-no-Windows)
+
+####Projetos desenvolvidos durante o semestre
+---------------------
+
+todo - pegar links dos repositorios da galera. 
