@@ -1,0 +1,16 @@
+language: c
+before_install:
+  - sudo apt-get update -qq
+  - cd others
+  - cd travis
+  - sudo bash install.sh -qq
+  - cd Ubuntu
+  - sudo bash opencv_latest.sh -qq
+  - cd ..
+  - cd ..
+  - cd ..
+install:
+script:
+  - make
+after_script:
+  - ./exemplo --init-only
