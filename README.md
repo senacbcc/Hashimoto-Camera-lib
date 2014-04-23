@@ -1,10 +1,14 @@
-Hashimoto-Camera-lib  [![Build Status](https://travis-ci.org/senacbcc/Hashimoto-Camera-lib.svg?branch=master)](https://travis-ci.org/senacbcc/Hashimoto-Camera-lib)
+BCC-Hashimoto-PI3-Camera-lib  [![Build Status](https://travis-ci.org/senacbcc/Hashimoto-Camera-lib.svg?branch=master)](https://travis-ci.org/senacbcc/Hashimoto-Camera-lib)
 ====================
 
 ###Biblioteca de rotinas para acesso a câmera
-![tirinha](http://vidadeprogramador.com.br/wp-content/uploads/2014/01/tirinha1154.png)
+<p align="center">
 
-[crédito](http://vidadeprogramador.com.br)
+ <img src="http://vidadeprogramador.com.br/wp-content/uploads/2014/01/tirinha1154.png" alt="Vida de Programador"> 
+ 
+ <br>
+<a href="http://vidadeprogramador.com.br">Vida de Programador</a>
+</p>
 ####Sobre
 ---------------------
 
