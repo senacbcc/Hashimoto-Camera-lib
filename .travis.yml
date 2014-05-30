@@ -11,6 +11,7 @@ before_install:
   - cd ..
 install:
 script:
+  - cd src
   - make
 after_script:
   - ./exemplo --init-only
