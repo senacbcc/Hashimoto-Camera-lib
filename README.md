@@ -18,3 +18,12 @@ Biblioteca desenvolvida para utilização na disciplina Projeto Integrador III, 
 ####Créditos
 ---------------------
 [Profº Marcelo Hashimoto](https://www.github.com/mhsenac)[![cv](http://gediscursivos.files.wordpress.com/2012/12/lattes.png?w=869)](http://lattes.cnpq.br/5909154335340519)
+
+####Documentação e uso
+---------------------
+[![cv](http://www.triumphindia.com/images/icons/product-documentation.png)](https://github.com/senacbcc/Hashimoto-Camera-lib/blob/master/src/README.md) [Documentação](https://github.com/senacbcc/Hashimoto-Camera-lib/blob/master/src/README.md)
+
+####Projetos desenvolvidos durante o semestre
+---------------------
+
+todo - pegar links dos repositorios da galera.
