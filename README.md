@@ -1,4 +1,4 @@
-BCC-Hashimoto-PI3-Camera-lib  [![Build Status](https://travis-ci.org/senacbcc/Hashimoto-Camera-lib.svg?branch=master)](https://travis-ci.org/senacbcc/Hashimoto-Camera-lib)
+BCC-Hashimoto-PI3-Camera-lib  [![Build Status](http://img.shields.io/travis/senacbcc/Hashimoto-Camera-lib.svg?style=flat)](https://travis-ci.org/senacbcc/Hashimoto-Camera-lib)
 ====================
 
 ####Sobre
@@ -21,7 +21,7 @@ Biblioteca desenvolvida para utilização na disciplina Projeto Integrador III, 
 
 ####Documentação e uso
 ---------------------
-[![cv](http://www.triumphindia.com/images/icons/product-documentation.png)](https://github.com/senacbcc/Hashimoto-Camera-lib/blob/master/src/README.md) [Documentação](https://github.com/senacbcc/Hashimoto-Camera-lib/blob/master/src/README.md)
+[![cv](http://www.triumphindia.com/images/icons/product-documentation.png)](https://github.com/senacbcc/Hashimoto-Camera-lib/wiki) [Documentação](https://github.com/senacbcc/Hashimoto-Camera-lib/wiki)
 
 ####Projetos desenvolvidos durante o semestre
 ---------------------
